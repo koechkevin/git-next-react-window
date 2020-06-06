@@ -1,0 +1,6 @@
+
+$code-background : rgba($color: #000, $alpha: 0.8);
+$color: #fff;
+@import "./markdown.module";
+
+@include variable($code-background, $color);

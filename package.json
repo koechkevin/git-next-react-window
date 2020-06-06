@@ -5,11 +5,35 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start -p $PORT"
   },
   "dependencies": {
+    "@material-ui/core": "^4.10.1",
+    "@material-ui/icons": "^4.9.1",
+    "@types/atob": "^2.1.2",
+    "@types/react-window": "^1.8.2",
+    "atob": "^2.1.2",
+    "axios": "^0.19.2",
+    "github-markdown-css": "^4.0.0",
     "next": "9.4.4",
+    "node-sass": "^4.14.1",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-markdown": "^4.3.1",
+    "react-markdown-editor-lite": "^1.1.4",
+    "react-use": "^15.1.1",
+    "react-virtualized-auto-sizer": "^1.0.2",
+    "react-window": "^1.8.5",
+    "react-window-infinite-loader": "^1.0.5",
+    "sass": "^1.26.7",
+    "swr": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.10",
+    "@types/react": "^16.9.35",
+    "@types/react-virtualized-auto-sizer": "^1.0.0",
+    "@types/react-window-infinite-loader": "^1.0.3",
+    "k3v-scripts": "^1.0.4",
+    "typescript": "^3.9.3"
   }
 }

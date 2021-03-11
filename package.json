@@ -13,7 +13,7 @@
     "@types/atob": "^2.1.2",
     "@types/react-window": "^1.8.2",
     "atob": "^2.1.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "github-markdown-css": "^4.0.0",
     "next": "9.4.4",
     "node-sass": "^4.14.1",

@@ -16,7 +16,7 @@
     "axios": "^0.21.1",
     "github-markdown-css": "^4.0.0",
     "next": "9.4.4",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-markdown": "^4.3.1",
